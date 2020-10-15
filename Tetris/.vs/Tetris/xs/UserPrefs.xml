@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/GameController.cs" Line="13" Column="9" />
+      <File FileName="Assets/Scripts/Core/Spawner.cs" />
+      <File FileName="Assets/Scripts/Utility/Vectorf.cs" />
+      <File FileName="Assets/Scripts/Core/Board.cs" />
+      <File FileName="Assets/Scripts/Core/Shape.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tetris" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Core" expanded="True" />
+                <Node name="Managers" expanded="True">
+                  <Node name="GameController.cs" selected="True" />
+                </Node>
+                <Node name="Utility" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="99b05be2-abd1-4f1f-bf87-d94c1e9615c3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
